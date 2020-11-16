@@ -42,7 +42,7 @@ Initially, the file has the following content
 
 * Note: the hostname here (**127.0.0.1**) means the machine running the code, which is equivalent to **localhost**
 
-* Note: the port number here (30000) should be adjusted accordingly. Your designated port numbers are posted on Piazza.
+* Note: the port number here (30000) should be adjusted accordingly. Your designated port numbers are given in [PortAssignment.md](PortAssignment.md).
 
 1. Once you're done, you can save the file and run the code by running
 
